@@ -1,0 +1,6 @@
+kafka_brocker: "changeme"
+url_oauth: "https://as.api.iledefrance-mobilites.fr/api/oauth/token"
+client_id: "changeme"
+client_secret: "changeme"
+url_stop_monitoring: "https://traffic.api.iledefrance-mobilites.fr/v1/tr-unitaire/stop-monitoring"
+url_departures: "https://traffic.api.iledefrance-mobilites.fr/v1/tr-vianavigo/departures"
