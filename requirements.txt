@@ -1,0 +1,5 @@
+logging==0.5.1.2
+faust==1.10.4
+requests==2.26.0
+geopandas==0.9.0
+confluent-kafka==1.7.0
